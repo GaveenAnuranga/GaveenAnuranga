@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gaveen Anuranga.
-- 👀 I’m interested in AI engineering.
-- 🌱 I’m currently learning MongoDB.
+- 👀 I’m interested in DEvOPs engineering.
+- 🌱 I’m currently learning MERN Stack.
 - 💞️ I’m still not looking to collaborate.
 - 📫 Reach me on Linkdn as Gaveen Anuranga.
 
